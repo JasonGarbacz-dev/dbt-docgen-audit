@@ -115,3 +115,7 @@ Future versions may parameterize the target folder or enable reuse across multip
 - 🪪 Integrate with ownership metadata for doc routing
 
 ---
+---
+
+**Built by [Jason Garbacz](https://www.linkedin.com/in/jason-garbacz)**  
+Currently exploring roles focused on data tooling, analytics engineering, or GPT-backed automation systems.
