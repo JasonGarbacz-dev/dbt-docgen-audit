@@ -1,0 +1,9 @@
+# Ignore metadata export
+column_metadata_export.csv
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
