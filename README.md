@@ -115,7 +115,12 @@ Future versions may parameterize the target folder or enable reuse across multip
 - 🪪 Integrate with ownership metadata for doc routing
 
 ---
----
 
 **Built by [Jason Garbacz](https://www.linkedin.com/in/jason-garbacz)**  
 Currently exploring roles focused on data tooling, analytics engineering, or GPT-backed automation systems.
+
+---
+
+_This project is shared as a demonstration of personal contribution to internal tooling.  
+It is not licensed for commercial use or redistribution._
+
